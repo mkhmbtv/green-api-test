@@ -1,5 +1,7 @@
 # Тестовое задание с использованием GREEN-API
 
+**Demo: [https://green-api-test-alpha.vercel.app/](https://green-api-test-alpha.vercel.app/)**
+
 ## Быстрый старт
 
 1. Клонировать репозиторий и установить зависимости
@@ -11,6 +13,7 @@ bun install
 ```
 
 2. Создайте переменную окружения в .env файле
+
 `VITE_API_URL`: apiUrl из личного кабинета GREEN-API
 
 3. Запустите сервер разработки
